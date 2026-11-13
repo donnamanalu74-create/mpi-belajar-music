@@ -1,0 +1,6 @@
+{
+  "name": "Harmoni Teramia - Piano Interaktif & Game Seni Musik Kelas 5 SD",
+  "description": "Media pembelajaran interaktif seni musik dan permainan piano terpadu untuk Interactive Flat Panel (IFP) siswa kelas 5 SD TERAMIA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
